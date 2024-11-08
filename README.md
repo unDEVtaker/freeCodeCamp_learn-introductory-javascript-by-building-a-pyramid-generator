@@ -15,8 +15,5 @@ Manejo de condicionales (if/else) para controlar el flujo del programa.
 ## 📚 Contenidos
 El proyecto abarca lo siguiente:
 
-🏗️ Construcción de la pirámide: Utilizando estructuras de control y bucles para generar una pirámide dinámica.
-🔤 Manipulación de strings y arrays: Uso de métodos para transformar, acceder y mostrar datos.
-🔧 Funciones: Creación de funciones reutilizables para distintos aspectos del proyecto.
-⚖️ Condicionales: Implementación de lógica condicional para ajustar el comportamiento de la pirámide.
+🏗️ Construcción de la pirámide: Utilizando estructuras de control y bucles para generar una pirámide dinámica. Manipulación de strings y arrays: Uso de métodos para transformar, acceder y mostrar datos. Funciones: Creación de funciones reutilizables para distintos aspectos del proyecto. Condicionales: Implementación de lógica condicional para ajustar el comportamiento de la pirámide.
 
